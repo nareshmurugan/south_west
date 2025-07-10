@@ -1,0 +1,11 @@
+__pycache__/
+__pycache__/*
+
+brave/
+brave/*
+.venv/
+.venv/*
+profile_data/
+profile_data/*
+.ownbrowser.zip
+brave.zip

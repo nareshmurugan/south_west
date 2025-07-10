@@ -1,0 +1,2 @@
+to change auth key path
+sudo sed -i '/^auth-user-pass/c\auth-user-pass /etc/openvpn/secrets/proton_auth.txt' /home/ai/Desktop/sw_stable/vpn/proton/server/us/*.ovpn\n
