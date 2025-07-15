@@ -9,3 +9,7 @@ profile_data/
 profile_data/*
 .ownbrowser.zip
 brave.zip
+.ownbrowser/
+.ownbrowser/*
+Test/
+Test/*

@@ -1,8 +1,8 @@
 import os, random, psutil, threading, time, subprocess
-from pyvirtualdisplay import Display
+# from pyvirtualdisplay import Display
 
-display = Display(visible=0, size=(1280, 720))
-display.start()
+# display = Display(visible=0, size=(1280, 720))
+# display.start()
 
 max_retries = 5  
 retry_delay = 3  
@@ -148,7 +148,7 @@ class Run:
                     time_stoped = time.time()
                     print("stoped time",time_stoped)
                 else:
-                    if time.time() - time_stoped > 40:
+                    if time.time() - time_stoped > 90:
                         print("new thread is creating.........")
                         self.create_thread(ttl)
         kill_chrome(self.ports)
@@ -160,4 +160,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-    display.stop()
+    # display.stop()

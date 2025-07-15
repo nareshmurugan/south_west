@@ -1,0 +1,732 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://www.southwest.com/swa-resources/scripts/analytics/analytics.js",
+      "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://www.southwest.com/air/booking/static/82.0.0-26/css/app.css",
+      "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://www.southwest.com/swa-resources/styles/air-booking-override.css",
+      "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+    }
+  }
+   , 
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://siteintercept.qualtrics.com/WRQualtricsShared/Graphics/siteintercept/wr-dialog-close-btn-black.png",
+      "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://www.southwest.com/air/booking/static/81.0.0-13/css/fonts/swa-icon.woff",
+      "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+    }
+  }
+  ,
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://www.southwest.com/swa-resources/images/ads/sun-moon-icon-LG.png",
+      "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://siteintercept.qualtrics.com/static/q-siteintercept/~/img/wr-dialog-close-btn-black.png",
+      "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+    }
+  }
+  ,
+  {
+      "id": 9,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "https://siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
+        "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+      }
+  },
+  {
+      "id": 10,
+      "priority": 1,
+      "action": {
+        "type": "block"
+      },
+      "condition": {
+        "urlFilter": "https://www.southwest.com/air/booking/static/82.0.0-26/css/fonts/swa-icon.woff",
+        "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+      }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "urlFilter": "https://southwestairlines.mpeasylink.com/mpel/mpel.js",
+      "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+    }
+},
+{
+  "id": 12,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/swa-resources/images/icons/linkedin-icon.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 13,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/swa-resources/images/icons/pinterest-icon.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 14,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/swa-resources/images/chase-cards/card_swa_plus_V_S_RGB.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 15,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/air/booking/static/83.0.0/css/app.css",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 16,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/swa-resources/scripts/analytics/analytics.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 17,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/swa-resources/styles/air-booking-override.css",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 18,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/air/booking/static/83.0.0/css/fonts/swa-icon.woff",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 19,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://southwestairlines.mpeasylink.com/mpel/mpel.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 20,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/swa-resources/images/globalnav/logos/swa_logo_light.svg",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 21,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/swa-resources/images/icons/linkedin-icon.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 22,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/swa-resources/images/icons/pinterest-icon.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 23,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://www.southwest.com/swa-resources/images/chase-cards/card_swa_plus_V_S_RGB.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id": 24,
+  "priority": 1,
+  "action": {
+    "type": "block"
+  },
+  "condition": {
+    "urlFilter": "https://siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 25,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/air/booking/static/87.0.0/css/app.css",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 26,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/styles/air-booking-override.css",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 27,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/7249c56b-6f01-42dd-b272-a8b69f122d7a",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 28,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/__imp_apg__/js/sed-southwest-3fcbdcfb.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 29,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://cdn.appdynamics.com/adrum/web-vitals/web-vitals.iife.3.3.2.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 30,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/di/swadc/cdn/cs/pXS4eU1UtrsWT1A6lR5H5EQACPk.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 31,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/scripts/analytics//b52dfd6476cb/21df05686c51/334d86793e8d/hostedLibFiles/EPef068a8d6dd34a43866d9a80cc98baab/AppMeasurement.min.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 32,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAAXNSR0IArs4c6QAAABNJREFUGFdjZGBg+M+ABhhpIAgAJ4wFAdoS1GgAAAAASUVORK5CYII=",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 33,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/scripts/analytics//b52dfd6476cb/21df05686c51/334d86793e8d/hostedLibFiles/EPef068a8d6dd34a43866d9a80cc98baab/AppMeasurement_Module_ActivityMap.min.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 35,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://southwestairlines.mpeasylink.com/mpel/mpel.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 36,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/fonts/FairwaterScript-Bold.otf",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 37,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/images/globalnav/logos/swa_logo_light.svg",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 38,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/images/icons/linkedin-icon.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 39,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/images/icons/pinterest-icon.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 40,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/di/swadvc/cc.js?sid=7b66b3c6e172eed2&ts=1737021838660&namespace=advc",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 41,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/fonts/SouthwestSans-Bold.otf",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 42,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/fonts/SouthwestSans-Regular.otf",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 43,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/images/chase-cards/card_swa_plus_V_S_RGB.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 44,
+  "priority": 1,
+  "action":{
+    "type" :"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/air/booking/static/87.0.0/css/fonts/swa-icon.woff",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 45,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/favicon.ico",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 46,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAAXNSR0IArs4c6QAAABNJREFUGFdjZGBg+M+ABhhpIAgAJ4wFAdoS1GgAAAAASUVORK5CYII=",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 47,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/images/globalnav/logos/swa_logo_light.svg",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 48,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/images/icons/linkedin-icon.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 49,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/images/icons/pinterest-icon.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 50,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/images/chase-cards/card_swa_plus_V_S_RGB.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 51,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 52,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 53,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://siteintercept.qualtrics.com/static/q-siteintercept/.blob/903d4c43fed535fb4d325b1612c605e48417dc74_wr-dialog-close-btn-black.png",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 54,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/air/booking/static/89.0.1/css/fonts/swa-icon.woff",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 55,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/fonts/FairwaterScript-Bold.otf",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 56,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/fonts/SouthwestSans-Bold.otf",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 57,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/fonts/SouthwestSans-Regular.otf",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 58,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/air/booking/static/89.0.1/css/app.css",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 59,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/favicon.ico",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 60,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/api/content-delivery/v1/content-delivery/query/placements",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 61,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/__imp_apg__/js/sed-southwest-3fcbdcfb.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 62,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/api/content-delivery/v1/content-delivery/query/placements",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 63,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/api/air-booking/v1/air-booking/feature/uimetadata",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 64,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://southwestairlines.mpeasylink.com/mpel/mpel.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 65,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/swa-resources/scripts/analytics//b52dfd6476cb/21df05686c51/4a8a55944484/hostedLibFiles/EPef068a8d6dd34a43866d9a80cc98baab/AppMeasurement_Module_AudienceManagement.min.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 66,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://southwestairlines.mpeasylink.com/mpel/mpel_storage.html?cmd=getpref&href=https%3A%2F%2Fwww.southwest.com%2Fair%2Fbooking%2Fselect-depart.html%3Fint%3DHOMEQBOMAIR%26adultPassengersCount%3D1%26departureDate%3D2025-03-07%26destinationAirportCode%3DMSP%26fareType%3DUSD%26originationAirportCode%3DPHX%26passengerType%3DADULT%26promoCode%3D%26returnDate%3D%26tripType%3Doneway%26from%3D%26to%3D%26adultsCount%3D1%26departureTimeOfDay%3DALL_DAY%26reset%3Dtrue%26returnTimeOfDay%3DALL_DAY",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 67,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://www.southwest.com/di/swadvc/et.js",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+},
+{
+  "id" : 68,
+  "priority" : 1,
+  "action":{
+    "type":"block"
+  },
+  "condition":{
+    "urlFilter":"https://pdx-col.eum-appdynamics.com/eumcollector/beacons/browser/v2/AD-AAB-AAY-BSX/adrum",
+    "resourceTypes": ["main_frame", "sub_frame", "stylesheet", "script", "image", "font", "object", "xmlhttprequest", "ping", "csp_report", "media", "websocket", "webtransport", "webbundle", "other"]
+  }
+}
+]
+
